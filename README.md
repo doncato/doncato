@@ -20,7 +20,7 @@ Yeah that's pretty much it.
 - English
 
 ### Stats: [](https://komarev.com/ghpvc/?username=doncato)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doncato&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true)](https://github.com/doncato)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doncato&lang_count=3&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true)](https://github.com/doncato)
 [![Stats](https://github-readme-stats.vercel.app/api?username=doncato&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true)](https://github.com/doncato)
 
 
