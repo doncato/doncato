@@ -20,7 +20,7 @@ Yeah that's pretty much it.
 - English
 
 ### Stats:
-https://komarev.com/ghpvc/?username=doncato
+![](https://komarev.com/ghpvc/?username=doncato)
 
 <!--
 **doncato/doncato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
