@@ -7,7 +7,8 @@ You can contact me over Discord: _doncato#9129_
 Feel free to ask, tell or teach me anything.
 
 Yeah that's pretty much it.
-These are languages I know: 
+
+### Boring Facts
 
 **Programming Languages:**
 - Python
