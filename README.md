@@ -8,7 +8,7 @@ Feel free to ask, tell or teach me anything.
 
 Yeah that's pretty much it.
 
-### Boring Facts
+### Facts
 
 **Programming Languages:**
 - Python
@@ -18,6 +18,9 @@ Yeah that's pretty much it.
 **Languages:**
 - German
 - English
+
+### Stats:
+https://komarev.com/ghpvc/?username=doncato
 
 <!--
 **doncato/doncato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
