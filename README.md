@@ -8,6 +8,9 @@ Feel free to ask, tell or teach me anything.
 
 Yeah that's pretty much it.
 
+Donate if you want to and like what I do:
++ Monero [XMR]: 83fcb81BX2XXeYJeqvQpEu1h9Fd5NuLi6YLnMd7YmrwVEWoHTyisvi4SLZssSemo849x2HWhqvZtea8VmHsZ2cNWKikXyX8
+
 ### Facts
 
 **Programming Languages:**
