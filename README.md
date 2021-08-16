@@ -8,11 +8,7 @@ Find me here...
 ### Contact
 + Discord: _doncato#9129_
 + Email: _don.cato.dc11@gmail.com_
-
-
-Yeah that's pretty much it.
-
-Donate if you want to and like what I do:
+  Donate if you want to and like what I do:
 + Monero [XMR]: 83fcb81BX2XXeYJeqvQpEu1h9Fd5NuLi6YLnMd7YmrwVEWoHTyisvi4SLZssSemo849x2HWhqvZtea8VmHsZ2cNWKikXyX8
 
 ### Facts
