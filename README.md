@@ -2,9 +2,13 @@
 Hello there, just call me doncato.
 I'm currently working with Rust
 
-You can contact me over Discord: _doncato#9129_
-
 Feel free to ask, tell or teach me anything.
+
+Find me here...
+### Contact
++ Discord: _doncato#9129_
++ Email: _don.cato.dc11@gmail.com_
+
 
 Yeah that's pretty much it.
 
