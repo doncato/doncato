@@ -1,6 +1,7 @@
 ### Info
-Hello there, just call me doncato.
-I'm currently working with Rust
+Just call me doncato.
+Programming Rust and Python applications on Linux.
+I speak german & english.
 
 Feel free to ask, tell or teach me anything.
 
@@ -8,19 +9,9 @@ Find me here...
 ### Contact
 + Discord: _doncato#9129_
 + Email: _don.cato.dc11@gmail.com_
-+ **Donate if you want to and like what I do:**<br>
++ Donate if you want:<br>
 Monero [XMR]: 83fcb81BX2XXeYJeqvQpEu1h9Fd5NuLi6YLnMd7YmrwVEWoHTyisvi4SLZssSemo849x2HWhqvZtea8VmHsZ2cNWKikXyX8
 
-### Facts
-
-**Programming Languages:**
-- Python
-- Rust
-- Java
-
-**Languages:**
-- German
-- English
 
 ### Stats: ![Visits](https://komarev.com/ghpvc/?username=doncato)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doncato&lang_count=3&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true)](https://github.com/doncato)
