@@ -13,7 +13,7 @@ Find me here...
 Monero [XMR]: 83fcb81BX2XXeYJeqvQpEu1h9Fd5NuLi6YLnMd7YmrwVEWoHTyisvi4SLZssSemo849x2HWhqvZtea8VmHsZ2cNWKikXyX8
 
 
-### Stats: ![Visits](https://komarev.com/ghpvc/?username=doncato)
+### Stats: <!--![Visits](https://komarev.com/ghpvc/?username=doncato)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doncato&lang_count=3&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true)](https://github.com/doncato)
 [![Stats](https://github-readme-stats.vercel.app/api?username=doncato&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true)](https://github.com/doncato)
 
