@@ -4,6 +4,7 @@ Programming Rust and Python applications on Linux.
 I speak german & english.
 
 Feel free to ask, tell or teach me anything.
+[If you see something you need or want to use and therefore require support, updates, etc. contact me!]
 
 Find me here...
 ### Contact
