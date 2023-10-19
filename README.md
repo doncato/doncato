@@ -8,7 +8,7 @@ Feel free to ask, tell or teach me anything.
 
 Find me here...
 ### Contact
-+ Discord: _doncato#9129_
++ Discord: _doncato9129_
 + Email: _doncato@notarobot.cyou_ or _don.cato.dc11@gmail.com_
 + Donate if you want:<br>
 Monero [XMR]: 83fcb81BX2XXeYJeqvQpEu1h9Fd5NuLi6YLnMd7YmrwVEWoHTyisvi4SLZssSemo849x2HWhqvZtea8VmHsZ2cNWKikXyX8
